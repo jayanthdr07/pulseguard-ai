@@ -1,4 +1,4 @@
-# PulseGuard AI 🚑🤖
+# **PulseGuard AI** 🚑🤖
 
 **PulseGuard AI** is an intelligent health monitoring backend system designed to analyze cardiovascular signals and provide real-time insights for early detection and proactive care.
 
