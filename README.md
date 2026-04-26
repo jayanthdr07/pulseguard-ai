@@ -90,21 +90,6 @@ PulseGuard AI supports **hardware-free heart rate detection** using:
 
 ---
 
-## 🏗️ Tech Stack
-
-* ⚙️ **Platform**: Base44 AI App Builder
-* 🌐 **Architecture**: Full-stack auto-generated system
-* 🗄️ **Database**: Managed via Base44
-* 🧠 **Processing**: Signal processing for PPG/rPPG heart-rate detection
-
-
-
-## 🏗️ Tech Stack
-
-* ⚙️ **Platform**: Base44 AI App Builder
-* 🌐 **Frontend + Backend**: Auto-generated full-stack system
-* 🗄️ **Database**: Managed via Base44
-* 🧠 **Processing**: Signal processing for PPG-based HR detection
 
 ---
 
