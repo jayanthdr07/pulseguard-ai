@@ -91,6 +91,42 @@ PulseGuard AI supports **hardware-free heart rate detection** using:
 ---
 
 
+## ☁️ Tech Stack 
+
+### 🟦 Google Cloud Platform (Primary)
+
+* **Firebase**
+
+  * Authentication (user login)
+  * Firestore / Realtime DB (health data storage)
+  * Cloud Messaging (notifications)
+
+* **Google Cloud Functions**
+
+  * Backend logic and API handling
+
+* **Google Cloud Storage**
+
+  * Report storage (PDF/CSV)
+
+* **Vertex AI (optional / extensible)**
+
+  * Risk prediction & ML model hosting
+
+
+### 🧠 Processing
+
+* JavaScript-based signal processing
+* PPG / rPPG algorithms for HR detection
+
+---
+
+### 🔗 Platform Layer
+
+* AntiGravity(full-stack generation & orchestration)
+
+---
+
 ---
 
 ## 🌍 Use Cases
