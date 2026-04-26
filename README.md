@@ -6,55 +6,98 @@
 
 ## 📌 Overview
 
-PulseGuard AI focuses on preventive healthcare by combining simple user inputs, camera-based heart-rate detection, and intelligent insights. It is designed to be accessible, scalable, and especially useful for rural and low-resource healthcare environments.
+PulseGuard AI focuses on preventive healthcare by combining user inputs, camera-based heart-rate detection, intelligent risk analysis, and emergency response features. It is designed for accessibility, scalability, and real-world healthcare impact—especially in rural and low-resource environments.
 
 ---
 
 ## 🚀 Key Features
 
 * 👤 **User Profile Creation**
-  Store age, gender, weight, and lifestyle information for personalized tracking.
+  Store age, gender, weight, and lifestyle data for personalized insights.
 
 * 📝 **Manual Health Logging**
-  Log blood pressure, heart rate, and contextual notes (e.g., after exercise or medication).
+  Track blood pressure, heart rate, and contextual notes (e.g., after exercise or medication).
 
 * 📊 **Trend Visualization**
-  Interactive charts for BP and heart rate with color-coded risk levels:
+  Interactive charts with color-coded cardiovascular risk levels:
 
   * 🟢 Low
   * 🟡 Medium
   * 🔴 High
 
-* 🔔 **Health Reminders**
-  Get prompts like “Take your BP today” via UI notifications.
+* 🔔 **Smart Health Reminders**
+  Notifications for daily BP checks, medication, and healthy habits.
 
-* 📄 **Data Export**
-  Download reports as **PDF or CSV** to share with doctors or clinics.
+* 📄 **Exportable Reports**
+  Download BP/HR history and risk reports as **PDF or CSV** for doctors.
 
-* 📚 **Educational Content**
-  Learn about hypertension, heart health, and preventive habits.
+* 📚 **Preventive Health Guidance**
+  Personalized suggestions for:
+
+  * 🥗 Diet (low sodium, heart-friendly foods)
+  * 🏃 Lifestyle (exercise, sleep, stress reduction)
+  * 🚭 Habit improvement
+
+---
+
+## ❤️ Heart Rate Monitoring (Camera-Based)
+
+PulseGuard AI supports **hardware-free heart rate detection** using:
+
+### 📱 Fingerprint (Rear Camera + Flash)
+
+* User places finger on camera
+* Detects blood flow via light absorption
+
+### 🙂 Face Detection (Front Camera)
+
+* Tracks subtle skin color changes
+* Uses remote PPG (rPPG) techniques
+
+### 🔬 Processing Pipeline
+
+* Captures color intensity variations
+* Converts into PPG-style signal
+* Applies filtering + peak detection
+* Outputs **heart rate in BPM**
 
 ---
 
-## ❤️ Heart Rate Tracking (Camera-Based)
+## 🚨 Emergency Response System
 
-PulseGuard AI uses **camera-based PPG (Photoplethysmography)** techniques:
+* 📍 **Automatic Location Sharing**
+  In high-risk situations, user location can be shared with:
 
-* 📱 Users can:
+  * 👨‍👩‍👧 Family members
+  * 🚑 Nearby ambulance services
 
-  * Place a finger over the rear camera (with flash), OR
-  * Use the front camera for face-based detection
+* ⚠️ **Risk-Based Alerts**
+  Triggered when abnormal heart rate or BP patterns are detected
 
-* 🔬 The system:
-
-  * Captures subtle color changes caused by blood flow
-  * Converts them into a PPG-style signal
-  * Applies signal processing (filtering + peak detection)
-  * Outputs **heart rate in BPM (beats per minute)**
-
-This enables **hardware-free heart rate monitoring** using just a browser.
+* 📞 Enables faster response in critical situations
 
 ---
+
+## 🎯 Accuracy & Reliability
+
+* Uses signal processing techniques to improve PPG accuracy
+* Designed for **approximate real-time monitoring**, not clinical diagnosis
+* Accuracy depends on:
+
+  * Lighting conditions
+  * Camera quality
+  * User stability (minimal movement)
+
+---
+
+## 🏗️ Tech Stack
+
+* ⚙️ **Platform**: Base44 AI App Builder
+* 🌐 **Architecture**: Full-stack auto-generated system
+* 🗄️ **Database**: Managed via Base44
+* 🧠 **Processing**: Signal processing for PPG/rPPG heart-rate detection
+
+
 
 ## 🏗️ Tech Stack
 
