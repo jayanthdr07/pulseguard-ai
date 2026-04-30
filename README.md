@@ -4,7 +4,7 @@
 
 ---
 
-## 📌 Overview
+## 📌 Overview.
 
 PulseGuard AI focuses on preventive healthcare by combining user inputs, camera-based heart-rate detection, intelligent risk analysis, and emergency response features. It is designed for accessibility, scalability, and real-world healthcare impact—especially in rural and low-resource environments.
 
