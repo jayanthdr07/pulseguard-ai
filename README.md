@@ -91,7 +91,7 @@ PulseGuard AI supports **hardware-free heart rate detection** using:
 ---
 
 
-## ☁️ Tech Stack 
+## ☁️ Tech Stack. 
 
 ### 🟦 Google Cloud Platform (Primary)
 
