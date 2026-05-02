@@ -114,7 +114,7 @@ PulseGuard AI supports **hardware-free heart rate detection** using:
   * Risk prediction & ML model hosting
 
 
-### 🧠 Processing
+### 🧠 Processing.
 
 * JavaScript-based signal processing
 * PPG / rPPG algorithms for HR detection
