@@ -63,7 +63,7 @@ PulseGuard AI supports **hardware-free heart rate detection** using:
 
 ---
 
-## 🚨 Emergency Response System
+## 🚨 Emergency Response System.
 
 * 📍 **Automatic Location Sharing**
   In high-risk situations, user location can be shared with:
