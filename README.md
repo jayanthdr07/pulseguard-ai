@@ -10,7 +10,7 @@ PulseGuard AI focuses on preventive healthcare by combining user inputs, camera-
 
 ---
 
-## 🚀 Key Features
+## 🚀 Key Features.
 
 * 👤 **User Profile Creation**
   Store age, gender, weight, and lifestyle data for personalized insights.
