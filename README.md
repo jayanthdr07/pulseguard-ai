@@ -18,7 +18,7 @@ PulseGuard AI focuses on preventive healthcare by combining user inputs, camera-
 * 📝 **Manual Health Logging**
   Track blood pressure, heart rate, and contextual notes (e.g., after exercise or medication).
 
-* 📊 **Trend Visualization**
+* 📊 **Trend Visualization.**
   Interactive charts with color-coded cardiovascular risk levels:
 
   * 🟢 Low
