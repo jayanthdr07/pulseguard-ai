@@ -139,7 +139,7 @@ PulseGuard AI supports **hardware-free heart rate detection** using:
 
 ---
 
-## 📈 Impact
+##  Impact
 
 PulseGuard AI reduces dependency on expensive medical devices by:
 
