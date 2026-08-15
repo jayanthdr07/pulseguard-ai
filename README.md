@@ -275,7 +275,7 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-**Jayanth DR**
+*Jayanth DR*
 GitHub: https://github.com/jayanthdr07
 
 ---
